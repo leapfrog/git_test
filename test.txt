@@ -1,1 +1,2 @@
 This is the git test to fork a project from github.com.
+Edited from newbranch.
