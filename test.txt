@@ -1,3 +1,5 @@
 this is first commit.
 
 this is the work done in branch A.
+
+this is the work done in branch B.
