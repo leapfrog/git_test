@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+a.
+=======
+This is for branch b\
+>>>>>>> b
